@@ -2,7 +2,6 @@ package helpers
 
 import (
 	"fmt"
-	"os"
 )
 
 func SayHello(name string) {
